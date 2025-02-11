@@ -1,0 +1,12 @@
+# Data folders
+augmented_training_data/
+training_data/
+test_data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+.ipynb_checkpoints
