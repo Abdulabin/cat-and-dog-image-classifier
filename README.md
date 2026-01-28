@@ -22,7 +22,7 @@ Training AI usually requires thousands of images. Without them, the model **over
 
 ### how the model learns over time
 
-![alt text](images\image.png)
+![alt text](images/image.png)
 ---
 
 ## Getting Started
